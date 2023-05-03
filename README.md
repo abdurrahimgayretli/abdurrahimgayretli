@@ -1,6 +1,18 @@
-# 💫 About Me:
-🔭 Last project I finished [Vocabulary Store](https://play.google.com/store/apps/details?id=com.abdurrahimgayretli.vocabularystore)<br>📫 How to reach me abdurrahimgayretli@gmail.com
+<h1 align="center">Hi 👋, I'm Abdurrahim Gayretli</h1>
+<h3 align="center">A passionate frontend developer from Turkey</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrahimgayretli&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrahimgayretli" /> </p>
+
+- 🔭 My Projects </br>
+    - [Vocabulary Store](https://play.google.com/store/apps/details?id=com.abdurrahimgayretli.vocabularystore) Vocabulary practice and reminder app. </br>
+    - [Content Slider](https://github.com/abdurrahimgayretli/content-slider-ts) A dynamic playlist app with React. </br>
+    - [Private Messaging](https://github.com/abdurrahimgayretli/private-messaging-ts) Private messaging with Socket.IO. </br>
+    - [Remind Word](https://play.google.com/store/apps/details?id=com.negotium.remindword) This application will remind your translated words for your memorize </br>
+    - [3 Orbis](https://play.google.com/store/apps/details?id=net.negotium.zorlutoplar)</br>
+    - [Zorlu Teslimat](https://play.google.com/store/apps/details?id=net.AbdurrahimGayretli.ZorluTeslimat)
+    
+
+- 📫 How to reach me **abdurrahimgayretli@gmail.com**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdurrahimgayretlii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdurrahimgayretli) 
@@ -12,7 +24,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abdurrahimgayretli&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahimgayretli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=abdurrahimgayretli&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
