@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 - 🔭 My Projects </br>
+    - [Blog Website](https://github.com/abdurrahimgayretli/blog-app-nextjs) A website where blogs are written and shared </br>
     - [Flexibble](https://github.com/abdurrahimgayretli/flexibble-nextjs) A full-stack Dribble Clone app. </br>
     - [Car Showcase](https://github.com/abdurrahimgayretli/car-showcase-nextjs) Car showcase web application. </br>
     - [Vocabulary Store](https://play.google.com/store/apps/details?id=com.abdurrahimgayretli.vocabularystore) Vocabulary practice and reminder app. </br>
